@@ -1,6 +1,21 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Sunil Jadhav
+logo: /assets/img/photo.png
+
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sunil-jadhav-9a82a18/">LinkedIn</a> |
+  <a href="https://github.com/suniljadhav/">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & Artificial Intelligence technologies to solve critical problems.
+  i have extensive experience in IT industry and on new age startups.
+  Worked with Infosys, Patni Computer Systems on various technology transformation projects.
+  Worked in Financial Services, Supply Chain Management and Automation domains.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
